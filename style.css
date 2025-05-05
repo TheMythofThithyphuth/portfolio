@@ -113,9 +113,9 @@ body{
     height: 200px;
     border-radius: 50%;
     margin: auto;
-    background: url(./assets/about.jpg) no-repeat;
-    background-size: 200%;
-    background-position: 40% 0;
+    background: url(./assets/meImage.jpg) no-repeat;
+    background-size: 110%;
+    background-position: 90% 0%;
 }
 
 
